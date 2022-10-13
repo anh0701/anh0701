@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hi, I’m Pham Thi Quynh Anh. 
+- I’m currently learning at Vietnam Maritime University in Haiphong, Vietnam.
 
 [Website](https://github.com/anh0701)  •  [Facebook](https://www.facebook.com/anh220701)  •  [Contact Us](mailto:quynhanhphamthi01@gmail.com)
 
