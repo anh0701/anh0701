@@ -33,19 +33,8 @@ You can click the Preview link to take a look at your changes.
   <br>
 
 <h2></h2>
-<div style="display: flex; flex-direction: row; justified-content:space-around;">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=anh0701&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anh0701&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=anh0701&show_icons=true" />
-  </picture>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anh0701&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anh0701&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anh0701&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
