@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=anh0701&show_icons=true" />
 </picture>
  
- <div style = 'width:50px;'></div>
+<!--  <div style = 'width:50px;'></div> -->
  
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quynhanh07&theme=highcontrast) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anh0701&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
