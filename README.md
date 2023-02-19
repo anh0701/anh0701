@@ -15,10 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 - Hi, I’m Pham Thi Quynh Anh. 
 - I’m currently learning at Vietnam Maritime University in Haiphong, Vietnam.
-<!--- Please contact me by:  [Website](https://github.com/anh0701)  •  [Facebook](https://www.facebook.com/anh220701)  •  [Email](mailto:quynhanhphamthi01@gmail.com) -->
-
-
-
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -29,10 +25,8 @@ You can click the Preview link to take a look at your changes.
 <a href = 'https://github.com/anh0701'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
-<br>
-  <br>
 
-<h2></h2>
+<h2>Statistics</h2>
 
 <!-- |     [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anh0701&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)                    |    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anh0701&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)               | 
 | --------------------- |:--------------:|  -->
