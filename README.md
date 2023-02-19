@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2></h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anh0701&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anh0701&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+|     [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anh0701&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)                    |    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anh0701&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)               | 
+| --------------------- |:--------------:| 
+       
 
