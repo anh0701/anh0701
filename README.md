@@ -26,6 +26,14 @@ You can click the Preview link to take a look at your changes.
   
 <br>
 
+
+<h2>Views</h2>
+
+<a href="https://github.com/thanhyou00">
+    <img src="https://komarev.com/ghpvc/?username=anh0701">
+</a> 
+
+<br>
 <h2>Statistics</h2>
 
 <!-- |     [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anh0701&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)                    |    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anh0701&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)               | 
