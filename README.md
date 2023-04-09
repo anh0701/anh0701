@@ -49,3 +49,10 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anh0701&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anh0701&count_private=true&show_icons=true&bg_color=060A0CD0&theme=black-ice" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anh0701&layout=compact&langs_count=8&bg_color=060A0CD0&theme=black-ice" />
+</a>
+ 
