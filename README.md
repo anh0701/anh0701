@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Views</h2>
 
-<a href="https://github.com/thanhyou00">
+<a href="https://github.com/anh0701">
     <img src="https://komarev.com/ghpvc/?username=anh0701">
 </a> 
 
