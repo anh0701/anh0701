@@ -50,9 +50,9 @@ You can click the Preview link to take a look at your changes.
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anh0701&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anh0701&count_private=true&show_icons=true&maxDuration=10" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anh0701&count_private=true&show_icons=true&maxDuration=5" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anh0701&layout=compact&langs_count=8&maxDuration=10" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anh0701&layout=compact&langs_count=8&maxDuration=5" />
 </a>
  
