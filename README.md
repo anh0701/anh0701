@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - Hi, I’m Pham Thi Quynh Anh. 
-<!-- - I’m currently learning at Vietnam Maritime University in Haiphong, Vietnam. -->
+
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
