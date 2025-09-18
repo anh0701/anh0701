@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m Anh, a web development enthusiast.
+- 👋 Hi, I’m Anh, a backend developer with 1 year of experience coding in Spring Boot.
 - 👀 I’m interested in backend development, software architecture, and test automation.
 - 🌱 I’m currently learning how to build Web APIs using Spring Boot/Laravel, microservices architecture, and automation testing.
 - 📄 I share my code snippets and technical notes on GitHub Gist: [**My Gists**](https://gist.github.com/anh0701)
