@@ -1,7 +1,7 @@
 
 
 # Hi, I’m Anh
-**Backend Developer | Frontend & AI Enthusiast**
+**Software Developer | Java-based Backend**
 
 I’m interested in backend development, software architecture, and test automation.
 I’m currently learning how to build Web APIs, microservices architecture, and automation testing.
