@@ -15,7 +15,9 @@ I’m open to collaborating on backend systems, automation testing, or scalable 
 ### Tech Stack
 - **Languages:** TypeScript, Python, Java, C#, PHP.
 - **Cloud/DevOps:** Docker, Nginx.
+<!--
 - **Focus:** Backend Architecture, Test Automation, Computer Vision.
+-->
 
 ### Featured Products
 - [**AI Defect Detection**](https://github.com/anh0701/SmartCheck): Automated quality control solution for electronic components using Python & YOLOv8.
