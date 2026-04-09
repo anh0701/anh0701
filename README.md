@@ -1,13 +1,16 @@
 
 
 # Hi, I’m Anh
+<!--
 **Software Developer | Java-based Backend**
 
 I’m interested in backend development, software architecture, and test automation.
 I’m currently learning how to build Web APIs, microservices architecture, and automation testing.
-
+-->
 I share my code snippets and technical notes on: [**anh0701**](https://gist.github.com/anh0701) and [**study-with-me**](https://anh0701.github.io/study-with-me/) .
+<!--
 I’m open to collaborating on backend systems, automation testing, or scalable web services.
+-->
 
 ### Tech Stack
 - **Languages:** TypeScript, Python, Java, C#, PHP.
