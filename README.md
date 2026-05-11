@@ -26,4 +26,5 @@ I’m open to collaborating on backend systems, automation testing, or scalable 
 - [**Dev tool**](https://anh0701.github.io/dev-tool/): Useful tools for developers.
 - [**Language learning**](https://anh0701.github.io/foreign-language/): A language learning web application that helps users practice vocabulary and grammar through interactive quizzes.
 - [**what-choice**](https://anh0701.github.io/what-choice/): Decide smart, eat well. Perfect meal recommendations tailored just for you.
-- [**Image editor**](https://anh0701.github.io/image-editor/): This is a web-based image editing tool focused on essential and practical features, allowing users to edit images quickly without installing complex software. 
+- [**Image editor**](https://anh0701.github.io/image-editor/): This is a web-based image editing tool focused on essential and practical features, allowing users to edit images quickly without installing complex software.
+- [**Finds**](https://anh0701.github.io/finds/): This is a quiz game 
